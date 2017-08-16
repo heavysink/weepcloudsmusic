@@ -353,7 +353,7 @@
 5sing.kugou.com/bz/1021158|Crystal Kay feat. BOA - Girlfriend (instrumental)
 
 
-全民 总计114
+全民 总计115
 http://node.kg.qq.com/play?s=73dmib7ZmLTOW7o-|消愁(Live)
 http://node.kg.qq.com/play?s=gK-qcngVqrTMCgKC|Attention
 http://node.kg.qq.com/play?s=gK-qcngVqOncwgK_|暧昧
@@ -468,6 +468,7 @@ http://node.kg.qq.com/play?s=ap6bEma8nMrEpaD5|绿洲
 http://node.kg.qq.com/play?s=ap6bEma8nVACMa9e|BEAUTIFUL WOMAN
 http://node.kg.qq.com/play?s=ap6bEma8nV_emarB|莫忘空城
 http://node.kg.qq.com/play?s=oI_ufkoxz0H3soKF|可念不可说
+http://node.kg.qq.com/node/play?s=9erfu19LfTJXm9es|撒野
 
 
 唱吧 总计31
