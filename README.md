@@ -88,7 +88,7 @@
 5sing.kugou.com/fc/4259938|Calc. piano ver. (feat.V)
 5sing.kugou.com/fc/4174639|Girlfriend (feat.小爱的妈)
 5sing.kugou.com/fc/4113041|あなたがいる限り ~A WORLD TO BELIEVE IN~ (feat. Jalam)
-5sing.kugou.com/fc/4079774|Love Call （feat. 凌&amp;侧）
+5sing.kugou.com/fc/4079774|Love Call （feat. 凌&侧）
 5sing.kugou.com/fc/4057314|爱情电影 feat.赫赫
 5sing.kugou.com/fc/3977553|逆生长小分队继续行动！
 5sing.kugou.com/fc/3974153|I Told You So (feat.手帕册)
@@ -98,7 +98,7 @@
 5sing.kugou.com/fc/3866739|プレイス·オブ·ピリオド
 5sing.kugou.com/fc/3846381|Can t Get Enough (RJ生日快乐)
 5sing.kugou.com/fc/3771323|Can t Take My Eyes Off You ( to melodia)
-5sing.kugou.com/fc/3718763|S&amp;M (feat. RJ) HBD to. 暖
+5sing.kugou.com/fc/3718763|S&M (feat. RJ) HBD to. 暖
 5sing.kugou.com/fc/3673813|Don t You Remember
 5sing.kugou.com/fc/3657510|自以为 feat.晞晞
 5sing.kugou.com/fc/8245831|圣诞夜
@@ -113,7 +113,7 @@
 5sing.kugou.com/fc/7837681|理由 ft. 纯二二
 5sing.kugou.com/fc/7826531|殊途同归 （《甲方大佬，乙方流氓》第一期ED）
 5sing.kugou.com/fc/7399947|Hey Jude (feat.五只萝莉)
-5sing.kugou.com/fc/7251770|听了才知道！ft.檀檀&amp;龟龟&amp;阿长
+5sing.kugou.com/fc/7251770|听了才知道！ft.檀檀&龟龟&阿长
 5sing.kugou.com/fc/7225658|挥不走的萤火
 5sing.kugou.com/fc/7207817|神居謡
 5sing.kugou.com/fc/7185368|Killa (feat.暖 RJ 樱桃 Loki)
@@ -128,9 +128,9 @@
 5sing.kugou.com/fc/6675045|最爱的人伤我最深 (feat.赫赫)
 5sing.kugou.com/fc/6646492|因为爱情(feat.duoduo)
 5sing.kugou.com/fc/6591840|Spell
-5sing.kugou.com/fc/6521572|Stickwitu (feat. 暖暖&amp; 樱桃)
+5sing.kugou.com/fc/6521572|Stickwitu (feat. 暖暖& 樱桃)
 5sing.kugou.com/fc/6493313|玫瑰堡垒
-5sing.kugou.com/fc/6481908|一心不乱 (ft. 飞雪 &amp; 水水)
+5sing.kugou.com/fc/6481908|一心不乱 (ft. 飞雪 & 水水)
 5sing.kugou.com/fc/6416054|One In A million
 5sing.kugou.com/fc/6357491|桜音 (feat.小爱的妈)
 5sing.kugou.com/fc/6326041|缓缓棋归 (feat. HITA)
@@ -144,7 +144,7 @@
 5sing.kugou.com/fc/6016382|想自由
 5sing.kugou.com/fc/6003558|少年 (feat.神之小饼)
 5sing.kugou.com/fc/5976392|刹那芳华曲
-5sing.kugou.com/fc/5963892|to the beginning Feat.KonaYu &amp; 音lysion
+5sing.kugou.com/fc/5963892|to the beginning Feat.KonaYu & 音lysion
 5sing.kugou.com/fc/5949189|樱园梦
 5sing.kugou.com/fc/5901176|Two As One (feat.HYH)
 5sing.kugou.com/fc/5850625|永遠はただの一秒から (feat.V)
@@ -173,7 +173,7 @@
 5sing.kugou.com/fc/10670404|『以画为歌』皋之鯉
 5sing.kugou.com/fc/10614974|晚风 (with 吾恩)
 5sing.kugou.com/fc/10589867|蛍 (组组HBD)
-5sing.kugou.com/fc/10525130|Gefühle (with ABkamp &amp; KAKA）
+5sing.kugou.com/fc/10525130|Gefühle (with ABkamp & KAKA）
 5sing.kugou.com/fc/10520201|红豆 （眉如黛作品 古耽玄幻广播剧《伏诛》插曲）
 5sing.kugou.com/fc/10512662|からくりピエロ piano ver.
 5sing.kugou.com/fc/10506799|暮光 (原曲：手嶌葵- 旅人)
@@ -184,7 +184,7 @@
 5sing.kugou.com/fc/10128692|Love is not perfect  (with 橙翼)
 5sing.kugou.com/fc/10103193|好きだから。
 5sing.kugou.com/fc/9995486|风萤月
-5sing.kugou.com/fc/9944397|Suit &amp; Tie ( Acoustic Guitar Ver.) with 暖暖
+5sing.kugou.com/fc/9944397|Suit & Tie ( Acoustic Guitar Ver.) with 暖暖
 5sing.kugou.com/fc/9939491|[12人合唱] シンガソン - れるりり
 5sing.kugou.com/fc/9875789|那些年 钢琴版
 5sing.kugou.com/fc/9840782|那些年 (feat.暖) acappella ver. HBD  Eugenia
@@ -260,7 +260,7 @@
 5sing.kugou.com/fc/15294605|鸿崖之末 (曲：钟无艳）
 5sing.kugou.com/fc/15154574|【时之歌】夜昙
 5sing.kugou.com/fc/14975261|莉莉安
-5sing.kugou.com/fc/14921170|归一（with 慕寒 &amp; 俺酱）
+5sing.kugou.com/fc/14921170|归一（with 慕寒 & 俺酱）
 5sing.kugou.com/fc/14828272|末日派热舞 （with 洛萱）
 5sing.kugou.com/fc/14805045|应抛旧姓名
 5sing.kugou.com/fc/14696179|红颜旧（剧情版）
@@ -284,7 +284,7 @@
 5SING 原唱区 总计53
 5sing.kugou.com/yc/3185431|秋风知月明（天涯明月刀OL）
 5sing.kugou.com/yc/3138411|徒然歌 《寂寞空庭春欲晚》ED-【荔枝自制广播剧】
-5sing.kugou.com/yc/3134721| 无限莫比乌斯——少女咖啡枪主题曲短版
+5sing.kugou.com/yc/3134721|无限莫比乌斯——少女咖啡枪主题曲短版
 5sing.kugou.com/yc/3124458|生（洛天依原创 人声本家）
 5sing.kugou.com/yc/3013669|红梅白雪知
 5sing.kugou.com/yc/3005812|清风曲 【羽白 第一期ED】
@@ -353,7 +353,7 @@
 5sing.kugou.com/bz/1021158|Crystal Kay feat. BOA - Girlfriend (instrumental)
 
 
-全民 总计116
+全民 总计119
 http://node.kg.qq.com/play?s=73dmib7ZmLTOW7o-|消愁(Live)
 http://node.kg.qq.com/play?s=gK-qcngVqrTMCgKC|Attention
 http://node.kg.qq.com/play?s=gK-qcngVqOncwgK_|暧昧
@@ -470,7 +470,9 @@ http://node.kg.qq.com/play?s=ap6bEma8nV_emarB|莫忘空城
 http://node.kg.qq.com/play?s=oI_ufkoxz0H3soKF|可念不可说
 http://node.kg.qq.com/play?s=9erfu19LfTJXm9es|撒野
 http://node.kg.qq.com/play?s=m2S7JamA744B2m19|那些你很冒险的梦
-
+http://node.kg.qq.com/play?s=V_It4NVgtiDACV-W|那又如何
+http://node.kg.qq.com/play?s=V_It4NVgtis8OV9x|日落大道(Live)
+http://node.kg.qq.com/play?s=V_It4NVgtPQvYV_D|寂寞拥挤
 
 唱吧 总计31
 changba.com/s/afLrTHW44TjR9I3zc2bs3w|夕山谣【完整原版】
@@ -556,7 +558,7 @@ music.163.com/song?id=451180593|我住长江头
 music.163.com/song?id=33337266|北极星
 music.163.com/song?id=411356433|万般徒说
 music.163.com/song?id=33337208|明天的事情
-music.163.com/song?id=480756673|诛仙·十年（Cover 王丹薇&amp;朱允儿）
+music.163.com/song?id=480756673|诛仙·十年（Cover 王丹薇&朱允儿）
 music.163.com/song?id=33337222|两个人
 music.163.com/song?id=33337269|暗室之后
 music.163.com/song?id=478366037|夜游园
@@ -629,7 +631,7 @@ music.163.com/song?id=474246965|【2017】陪你到世界尽头（Cover 7!!《�
 music.163.com/song?id=28406472|梦中的芳华
 music.163.com/song?id=28406471|万般徒说
 music.163.com/song?id=34014147|社戏
-music.163.com/song?id=33854412|【剑网3】锦年入梦(曲云&amp;孙飞亮)
+music.163.com/song?id=33854412|【剑网3】锦年入梦(曲云&孙飞亮)
 music.163.com/song?id=33337126|她说
 music.163.com/song?id=28285728|一苇以航
 music.163.com/song?id=34040251|十世镜
@@ -682,7 +684,7 @@ music.163.com/program?id=786448566|清风曲 【羽白 第一期ED】
 music.163.com/program?id=786448565|末日派热舞 （with 洛萱）
 music.163.com/program?id=786448564|莉莉安
 music.163.com/program?id=786448563|红梅白雪知
-music.163.com/program?id=786448562|归一（with 慕寒 &amp; 俺酱）
+music.163.com/program?id=786448562|归一（with 慕寒 & 俺酱）
 music.163.com/program?id=14865171|凤魅江山
 music.163.com/program?id=14865170|【云の泣】画地为牢
 music.163.com/program?id=14865169|锦年入梦【千里丹心万里路】 with 人衣大人
@@ -769,7 +771,7 @@ music.163.com/program?id=11989186|夜的绮语
 music.163.com/program?id=11989185|夜梦 （曲：邓丽欣 黑白照）
 music.163.com/program?id=11989184|『以画为歌』皋之鯉
 music.163.com/program?id=11989183|蛍 (组组HBD)
-music.163.com/program?id=11989182|Gefühle (with ABkamp &amp; KAKA）
+music.163.com/program?id=11989182|Gefühle (with ABkamp & KAKA）
 music.163.com/program?id=11989181|红豆 （眉如黛作品 古耽玄幻广播剧《伏诛》插曲）
 music.163.com/program?id=11989180|からくりピエロ piano ver
 music.163.com/program?id=11989179|暮光 (原曲：手嶌葵- 旅人)
@@ -780,7 +782,7 @@ music.163.com/program?id=11989175|Let it out （TV size）
 music.163.com/program?id=11989174|Love is not perfect (with 橙翼)
 music.163.com/program?id=11989173|好きだから。
 music.163.com/program?id=11989172|风萤月
-music.163.com/program?id=11989171|Suit &amp; Tie ( Acoustic Guitar Ver.)
+music.163.com/program?id=11989171|Suit & Tie ( Acoustic Guitar Ver.)
 music.163.com/program?id=11989170|[12人合唱] シンガソン - れるりり
 music.163.com/program?id=11989169|那些年 钢琴版
 music.163.com/program?id=11985186|萌芽的爱恋
@@ -809,7 +811,7 @@ music.163.com/program?id=11990197|Beautiful Surprise
 music.163.com/program?id=11990196|理由 ft. 纯二二
 music.163.com/program?id=11990195|殊途同归
 music.163.com/program?id=11990194|Hey Jude (feat.五只萝莉)
-music.163.com/program?id=11990193|听了才知道！ft.檀檀&amp;龟龟&amp;阿长
+music.163.com/program?id=11990193|听了才知道！ft.檀檀&龟龟&阿长
 music.163.com/program?id=11990192|挥不走的萤火
 music.163.com/program?id=11990191|神居謡.
 music.163.com/program?id=11990190|Killa (feat.暖 RJ 樱桃 Loki)
@@ -823,9 +825,9 @@ music.163.com/program?id=11990183|爱你对谁说
 music.163.com/program?id=11990182|Hello ft. 大残
 music.163.com/program?id=11990181|最爱的人伤我最深 (feat.赫赫)
 music.163.com/program?id=11990180|因为爱情(feat.duoduo)
-music.163.com/program?id=11992189|Stickwitu (feat. 暖暖&amp; 樱桃)
+music.163.com/program?id=11992189|Stickwitu (feat. 暖暖& 樱桃)
 music.163.com/program?id=11992188|玫瑰堡垒
-music.163.com/program?id=11992187|一心不乱 (ft. 飞雪 &amp; 水水)
+music.163.com/program?id=11992187|一心不乱 (ft. 飞雪 & 水水)
 music.163.com/program?id=11992186|One In A million
 music.163.com/program?id=11992185|桜音 (feat.小爱的妈)
 music.163.com/program?id=11992184|缓缓棋归 (feat. HITA)
@@ -881,7 +883,7 @@ music.163.com/program?id=11989126|【云の泣】Believe (feat.Rajor)
 music.163.com/program?id=11989125|【云の泣】Calc. piano ver. (feat.V)
 music.163.com/program?id=11989124|【云の泣】Girlfriend (feat.小爱的妈)
 music.163.com/program?id=11989123|【云の泣】 あなたがいる限り
-music.163.com/program?id=11989122|【云の泣】 Love Call （feat. 凌&amp;侧）
+music.163.com/program?id=11989122|【云の泣】 Love Call （feat. 凌&侧）
 music.163.com/program?id=11958046|【云の泣】 逆生长小分队继续行动
 music.163.com/program?id=11958045|【云の泣】爱情电影 feat.赫赫
 music.163.com/program?id=11958044|【云の泣】I Told You So (feat.手帕册)
@@ -891,7 +893,7 @@ music.163.com/program?id=11958041|【云の泣】 又一堆呆毛
 music.163.com/program?id=11958040|【云の泣】プレイス·オブ·ピリオド
 music.163.com/program?id=11958039|【云の泣】Can t Get Enough
 music.163.com/program?id=11958038|【云の泣】Can t Take My Eyes Off You
-music.163.com/program?id=11958037|【云の泣】S&amp;M (feat. RJ) HBD to. 暖
+music.163.com/program?id=11958037|【云の泣】S&M (feat. RJ) HBD to. 暖
 music.163.com/program?id=11958036|【云の泣】Don t You Remember
 music.163.com/program?id=11958035|【云の泣】自以为 feat.晞晞
 music.163.com/program?id=11958034|【云の泣】Photographs feat. Domian
@@ -946,3 +948,116 @@ music.163.com/program?id=11792058|【云の泣】晚风 (with 吾恩)
 music.163.com/program?id=11805080|【云の泣 原创】 爱
 music.163.com/program?id=11788045|【云の泣】因为是你（Big OST）
 music.163.com/program?id=11808065|【云の泣】最长的旅途
+
+啪啪音乐圈 总计110
+https://pan.baidu.com/s/1kVBoLgz PASSWORD:l3cm
+飘-沙宝亮
+泡沫-邓紫棋
+飘洋过海来看你-李宗盛
+青春（片段）-韩红
+年轮-张碧晨
+你不知道的事-王力宏
+漂流木（片段）-謝沛恩&韋禮安
+南山南-马頔
+拿走了什么-A.Lin
+牛奶奶带孙子买牛奶（绕口令）
+明天的事情-徐佳莹
+渺小-田馥甄
+迷迭香-周杰伦
+没有星期五的无人岛-魏如萱
+眉間雪-晴愔
+烈女-楊千嬅
+两个人-李荣浩
+莉莉安-宋冬野
+满·月已霜（片段）-廖国钺
+空城-王菲
+金鱼花火-大塚爱
+化身孤岛的鲸
+活该活该-卢凯彤
+卷珠帘-霍尊
+离开（片段）-郭静
+会飞的野马-杨裸儿
+后会无期-邓紫棋
+可惜我是水瓶座（片段）-杨千嬅
+今生如梦（片段）
+极限（片段，清唱）-徐佳莹
+黑暗之光（片段）-雷光夏
+过火（片段）-张信哲
+过不去-张惠妹
+故乡·二-Winky诗
+枫-周杰伦
+孤独患者-陈奕迅
+风月-黄龄
+邓大福是一只猫-邓福如
+当你老了-赵照
+大千世界-只有影子
+董小姐（片段）-宋冬野
+尘埃-家家
+偿还-邓丽君
+北极星-Mario
+斑马，斑马-宋冬野
+暗室之后-魏如萱
+爱在西元前-周杰伦
+阿楚姑娘-梁凡
+残酷月光（片段）-林宥嘉
+爱殇（片段）
+Try-Colbie Caillat
+the one that got away-Katy Perry
+The Lonely-Christina Perri
+Treasure-Bruno Mars
+Somewhere Only We Know-Keane
+Reflection-花木兰插曲
+Young and Beautiful（片段）-Lana Del Rey
+Only Hope-Mandy Moore
+Paper Hearts-Tori Kelly
+Mascara(烟熏妆)-邓紫棋
+My destiny (来自星星的你）-Lyn
+officially missing you（片段）-Tamia
+Maps-Maroon 5
+Not About Angels-Birdy
+Let it go
+Clown-Emeli Sandé
+Mirrors-Justin Timberlake
+All of me-John Legend
+For No Reason （片段）-王若琳
+Let it go (片段）
+All About That Bass-Meghan Trainor
+住在沙城里的废话流-张嘉佳
+罪恶感-A.Lin
+走在冷风中-刘思涵
+最长的电影-周杰伦
+原谅不美好-郁可唯
+拥抱你-刘思涵
+遗憾为止-李代沫
+原谅（片段）-张玉华
+一声忧伤-姚贝娜
+夜空中最亮的星-逃跑计划
+一朝芳草碧连天-曹轩宾
+一半-丁当
+夜会-王菲
+寻人启事-徐佳莹
+野子-苏运莹
+夜太黑（片段）-林忆莲
+袖手旁观-齐秦
+也许明天（片段）-张惠妹
+心酸-林宥嘉
+心动-林晓培
+学不会（片段）-林俊杰
+小小-容祖儿
+小幸运（片段）-田馥甄
+囍帖街-谢安琪
+星星（片段）-顺子
+喜剧之王-李荣浩
+外面的世界-齐秦
+蜗牛-周杰伦
+天使的指纹-孙燕姿
+她说-林俊杰
+听见下雨的声音-魏如昀
+他不懂-张杰
+棠红棣雪（片段）
+天边外（片段）-郑迪
+柿子-林忆莲
+尚好的青春-孙燕姿
+时间都去哪儿了-王铮亮
+三月-张惠妹
+山丘-李宗盛
