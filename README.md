@@ -1,359 +1,359 @@
 # weepcloudsmusic
 云呆呆歌曲全集
-5SING 翻唱区 总计278
-5sing.kugou.com/fc/3650114|哈哈哈黑历史好哈皮！
-5sing.kugou.com/fc/3630218|Photographs feat. Domian
-5sing.kugou.com/fc/3606390|都什么时候了
-5sing.kugou.com/fc/3573511|独唱 (remix.)
-5sing.kugou.com/fc/3499544|[七人合唱]Mr.Music.[Kona/Code-V/飞雪/小云/小祈/乌拉/缘]
-5sing.kugou.com/fc/3494954|if you and me/ ??
-5sing.kugou.com/fc/3454301|To you... feat.小爱的妈
-5sing.kugou.com/fc/3428917|One Love feat. Nazky
-5sing.kugou.com/fc/3410029|逃避没有不好
-5sing.kugou.com/fc/3398430|Teenage Dream
-5sing.kugou.com/fc/3382788|【Live】Officially Missing You
-5sing.kugou.com/fc/3376777|月亮之上哈哈哈哈哈哈哈哈哈哈哈哈哈
-5sing.kugou.com/fc/3366646|一堆呆毛什么的
-5sing.kugou.com/fc/3316146|ただ一つの願いさえ feat. 齐栾
-5sing.kugou.com/fc/3282048|流星
-5sing.kugou.com/fc/3252753|back to december feat. britneylee
-5sing.kugou.com/fc/3234122|心动
-5sing.kugou.com/fc/3229593|原点 feat. 宝井厳
-5sing.kugou.com/fc/3143691|梦回醉暖 feat. 依穆炎
-5sing.kugou.com/fc/3135893|こんなに近くで （小洋人HBD）
-5sing.kugou.com/fc/3043168|Christmas Again
-5sing.kugou.com/fc/3016071|Just a game (试唱）
-5sing.kugou.com/fc/2935824|対象a  feat.vbless（灯灯HBD）
-5sing.kugou.com/fc/2932501|beautiful love
-5sing.kugou.com/fc/2893432|ふたつの唇 feat.洋介
-5sing.kugou.com/fc/2870096|Come back to me (凌妹子HBD）
-5sing.kugou.com/fc/2842892|Wait For You （Morris生日快乐）
-5sing.kugou.com/fc/2795659|逢いたくていま （大喵喵生日快乐）
-5sing.kugou.com/fc/2781633|If I were you (梳子生日快乐！）
-5sing.kugou.com/fc/2769924|Moon Crying
-5sing.kugou.com/fc/2764175|Magnet  feat .綾辻ゆき
-5sing.kugou.com/fc/2752101|A.I.N.Y
-5sing.kugou.com/fc/2749742|这么近那么远 （demo）
-5sing.kugou.com/fc/2728250|Hello,Again~昔からある場所~ (Ballad Ver.)
-5sing.kugou.com/fc/2651231|Once （睎睎HBD~）
-5sing.kugou.com/fc/2623254|你好吗 ft.凌妹子
-5sing.kugou.com/fc/2615265|いますぐに… (Acoustic Version) VVV生日快乐！！！！
-5sing.kugou.com/fc/2598193|热气球
-5sing.kugou.com/fc/2559563|Breathe  ft.britneylee
-5sing.kugou.com/fc/2524959|回家
-5sing.kugou.com/fc/2500305|Teardrops On My Guitar
-5sing.kugou.com/fc/2422101|jewelry day
-5sing.kugou.com/fc/2316729|八头肥鹅（battlefield）RJ HBD.
-5sing.kugou.com/fc/2261347|umbrella full. （小暖HBD）
-5sing.kugou.com/fc/2219162|Breathe
-5sing.kugou.com/fc/2219145|Crush
-5sing.kugou.com/fc/2180913|Gravity
-5sing.kugou.com/fc/2143470|we are the world-仙来25人合唱版~
-5sing.kugou.com/fc/2090246|temporary home
-5sing.kugou.com/fc/2085768|逢いたくていま (demo)
-5sing.kugou.com/fc/5630312|无赖
-5sing.kugou.com/fc/5602321|Skyscraper
-5sing.kugou.com/fc/5591476|屋顶 (feat.丹堂夏草)
-5sing.kugou.com/fc/5522492|[8人合唱]ゆめのかたち[飞雪/V/水曜日/大云/乌拉/小祈/叫兽/小恋]
-5sing.kugou.com/fc/5466799|He Ain t Wit Me Now (暖云樱杰拉版）
-5sing.kugou.com/fc/5455130|就算心痛 (feat.HITA)
-5sing.kugou.com/fc/5428800|Patron Tequila (暖云杰艾樱超 ver.)
-5sing.kugou.com/fc/5417380|Andromeda feat.美荆 (词：择荇)
-5sing.kugou.com/fc/5394330|Valentine
-5sing.kugou.com/fc/5342304|βιοζ-δ [罪恶王冠]
-5sing.kugou.com/fc/5260713|原谅
-5sing.kugou.com/fc/5160679|船(feat. 蜜蜜)
-5sing.kugou.com/fc/5146707|眉如远山 (feat. Aki阿杰)
-5sing.kugou.com/fc/5140727|爱因为在心中蜜蜜庆生版
-5sing.kugou.com/fc/5102722|我很忙
-5sing.kugou.com/fc/5053197|【乱唱】 Bad girl good girl
-5sing.kugou.com/fc/4993854|It s not Christmas without you
-5sing.kugou.com/fc/4974338|エウテルペ
-5sing.kugou.com/fc/4956964|Rhythm of love (feat. ST)
-5sing.kugou.com/fc/4945538|第三种爱情
-5sing.kugou.com/fc/4941546|Love Story (TV size.)「私が恋愛できない理由」
-5sing.kugou.com/fc/4826662|Keep Holding U Ver.2 (feat. HYH)
-5sing.kugou.com/fc/4821426|Keep Holding U (feat. HYH)
-5sing.kugou.com/fc/4750288|How to love (feat. 璐璐)
-5sing.kugou.com/fc/4666845|Crash and Burn
-5sing.kugou.com/fc/4630339|【LIVE】Amen
-5sing.kugou.com/fc/4578185|I feel pretty/unpretty (feat.britneylee)
-5sing.kugou.com/fc/4574790|那个女人(试唱) remix ver.
-5sing.kugou.com/fc/4563366|KAMEN (feat.HYH)
-5sing.kugou.com/fc/4500510|心拍数 (feat.宝井厳)
-5sing.kugou.com/fc/4473260|Poker Face (feat. Aki 阿杰)
-5sing.kugou.com/fc/4420432|超级玛丽  怎么唱情歌（demo)
-5sing.kugou.com/fc/4301162|キミに贈る歌 (feat. 凌)  TO V
-5sing.kugou.com/fc/4280084|Believe (feat.Rajor)
-5sing.kugou.com/fc/4259938|Calc. piano ver. (feat.V)
-5sing.kugou.com/fc/4174639|Girlfriend (feat.小爱的妈)
-5sing.kugou.com/fc/4113041|あなたがいる限り ~A WORLD TO BELIEVE IN~ (feat. Jalam)
-5sing.kugou.com/fc/4079774|Love Call （feat. 凌&侧）
-5sing.kugou.com/fc/4057314|爱情电影 feat.赫赫
-5sing.kugou.com/fc/3977553|逆生长小分队继续行动！
-5sing.kugou.com/fc/3974153|I Told You So (feat.手帕册)
-5sing.kugou.com/fc/3968254|Almost  Here (feat. chambek)
-5sing.kugou.com/fc/3952214|Broken Heart (feat. 眞亦軒)
-5sing.kugou.com/fc/3900369|又一堆呆毛
-5sing.kugou.com/fc/3866739|プレイス·オブ·ピリオド
-5sing.kugou.com/fc/3846381|Can t Get Enough (RJ生日快乐)
-5sing.kugou.com/fc/3771323|Can t Take My Eyes Off You ( to melodia)
-5sing.kugou.com/fc/3718763|S&M (feat. RJ) HBD to. 暖
-5sing.kugou.com/fc/3673813|Don t You Remember
-5sing.kugou.com/fc/3657510|自以为 feat.晞晞
-5sing.kugou.com/fc/8245831|圣诞夜
-5sing.kugou.com/fc/8141596|Special Love
-5sing.kugou.com/fc/8118694|【YY录】心在跳
-5sing.kugou.com/fc/8113125|【剑网叁】同归 (明教X纯阳)
-5sing.kugou.com/fc/8037595|Better Me
-5sing.kugou.com/fc/8001049|【完美时空-笑傲江湖】《执迷》
-5sing.kugou.com/fc/7974453|狂言绮语
-5sing.kugou.com/fc/7950783|美好的 (阿姐新婚快乐!)
-5sing.kugou.com/fc/7890207|Beautiful Surprise
-5sing.kugou.com/fc/7837681|理由 ft. 纯二二
-5sing.kugou.com/fc/7826531|殊途同归 （《甲方大佬，乙方流氓》第一期ED）
-5sing.kugou.com/fc/7399947|Hey Jude (feat.五只萝莉)
-5sing.kugou.com/fc/7251770|听了才知道！ft.檀檀&龟龟&阿长
-5sing.kugou.com/fc/7225658|挥不走的萤火
-5sing.kugou.com/fc/7207817|神居謡
-5sing.kugou.com/fc/7185368|Killa (feat.暖 RJ 樱桃 Loki)
-5sing.kugou.com/fc/7106625|Wide Awake  feat. Eugenia (Acoustic Guitar Ver.)
-5sing.kugou.com/fc/7017605|Lights (Piano Acoustic Ver.)
-5sing.kugou.com/fc/6952418|踮起脚尖爱
-5sing.kugou.com/fc/6908007|好不容易
-5sing.kugou.com/fc/6784353|The Garden of Everything (feat.诺维尔俊介)
-5sing.kugou.com/fc/6751238|一个人对话
-5sing.kugou.com/fc/6720880|爱你对谁说
-5sing.kugou.com/fc/6713654|Hello ft. 大残
-5sing.kugou.com/fc/6675045|最爱的人伤我最深 (feat.赫赫)
-5sing.kugou.com/fc/6646492|因为爱情(feat.duoduo)
-5sing.kugou.com/fc/6591840|Spell
-5sing.kugou.com/fc/6521572|Stickwitu (feat. 暖暖& 樱桃)
-5sing.kugou.com/fc/6493313|玫瑰堡垒
-5sing.kugou.com/fc/6481908|一心不乱 (ft. 飞雪 & 水水)
-5sing.kugou.com/fc/6416054|One In A million
-5sing.kugou.com/fc/6357491|桜音 (feat.小爱的妈)
-5sing.kugou.com/fc/6326041|缓缓棋归 (feat. HITA)
-5sing.kugou.com/fc/6317672|时光倒流 (拥抱太阳的月亮OST)
-5sing.kugou.com/fc/6254281|让梦冬眠 (feat. Eric.周)
-5sing.kugou.com/fc/6239078|Neglected (feat. TC)
-5sing.kugou.com/fc/6190678|一个人想你
-5sing.kugou.com/fc/6170690|Boyfriend
-5sing.kugou.com/fc/6135629|我的歌声里
-5sing.kugou.com/fc/6126909|社戏
-5sing.kugou.com/fc/6016382|想自由
-5sing.kugou.com/fc/6003558|少年 (feat.神之小饼)
-5sing.kugou.com/fc/5976392|刹那芳华曲
-5sing.kugou.com/fc/5963892|to the beginning Feat.KonaYu & 音lysion
-5sing.kugou.com/fc/5949189|樱园梦
-5sing.kugou.com/fc/5901176|Two As One (feat.HYH)
-5sing.kugou.com/fc/5850625|永遠はただの一秒から (feat.V)
-5sing.kugou.com/fc/5814588|Grenade (Acoustic Ver.)
-5sing.kugou.com/fc/5754381|最后一眼(feat.赖仔)
-5sing.kugou.com/fc/5665202|Love Days~ It‘s You 【柏晓2012动画新番 <不可能恋爱?> ED】
-5sing.kugou.com/fc/12234058|梦 （原曲：蜃楼）
-5sing.kugou.com/fc/12197169|Let it go
-5sing.kugou.com/fc/12103598|好友记 （曲：再见二丁目）
-5sing.kugou.com/fc/12076116|777～We can sing a song!～ (葫芦兄弟ver.)
-5sing.kugou.com/fc/11903538|诛仙·十年
-5sing.kugou.com/fc/11823530|好好说再见 (ft. 伏羲)
-5sing.kugou.com/fc/11732440|【AAA】恋音と雨空 ver.云匀五嘟露MO三
-5sing.kugou.com/fc/11657015|舞夜序歌
-5sing.kugou.com/fc/11625767|画壁 （弦乐版） 后期：蓦然
-5sing.kugou.com/fc/11553464|你听这一首情歌 （曲：ここにしか咲かない花）
-5sing.kugou.com/fc/11424357|我与自己唱相守
-5sing.kugou.com/fc/11380243|爱殇
-5sing.kugou.com/fc/11343726|陶然四季
-5sing.kugou.com/fc/11315560|十年 （曲：年度之歌）
-5sing.kugou.com/fc/11293863|陪衬 （曲：搜神记）
-5sing.kugou.com/fc/11282612|风起来的时光
-5sing.kugou.com/fc/11236660|Teardrop
-5sing.kugou.com/fc/11150338|夜的绮语
-5sing.kugou.com/fc/10819085|夜梦 （曲：邓丽欣 黑白照）
-5sing.kugou.com/fc/10670404|『以画为歌』皋之鯉
-5sing.kugou.com/fc/10614974|晚风 (with 吾恩)
-5sing.kugou.com/fc/10589867|蛍 (组组HBD)
-5sing.kugou.com/fc/10525130|Gefühle (with ABkamp & KAKA）
-5sing.kugou.com/fc/10520201|红豆 （眉如黛作品 古耽玄幻广播剧《伏诛》插曲）
-5sing.kugou.com/fc/10512662|からくりピエロ piano ver.
-5sing.kugou.com/fc/10506799|暮光 (原曲：手嶌葵- 旅人)
-5sing.kugou.com/fc/10432460|当时（with 不才）
-5sing.kugou.com/fc/10380241|High Rise City
-5sing.kugou.com/fc/10170559|贪欢 (with HITA )
-5sing.kugou.com/fc/10152877|Let it out （TV size）
-5sing.kugou.com/fc/10128692|Love is not perfect  (with 橙翼)
-5sing.kugou.com/fc/10103193|好きだから。
-5sing.kugou.com/fc/9995486|风萤月
-5sing.kugou.com/fc/9944397|Suit & Tie ( Acoustic Guitar Ver.) with 暖暖
-5sing.kugou.com/fc/9939491|[12人合唱] シンガソン - れるりり
-5sing.kugou.com/fc/9875789|那些年 钢琴版
-5sing.kugou.com/fc/9840782|那些年 (feat.暖) acappella ver. HBD  Eugenia
-5sing.kugou.com/fc/9762829|When I was Your Man (HBD to 暖暖)
-5sing.kugou.com/fc/9743649|Wings (with 暖 樱 RJ）HBD loki
-5sing.kugou.com/fc/9721440|时间煮雨
-5sing.kugou.com/fc/9660994|朝花只拾一半  HBD to 小武
-5sing.kugou.com/fc/9610377|哑 ( 原曲：致青春）
-5sing.kugou.com/fc/9559491|都给本大爷跪下！
-5sing.kugou.com/fc/9559371|长坂调
-5sing.kugou.com/fc/9110453|刃中砂
-5sing.kugou.com/fc/8647000|妹子们快嫁窝！
-5sing.kugou.com/fc/8639749|Paparazzi (feat. 凑诗 wis light)
-5sing.kugou.com/fc/8369710|萌芽的爱恋
-5sing.kugou.com/fc/8307399|【古剑】 多情只有春庭月
-5sing.kugou.com/fc/8293353|圣诞结 Lonely Christmas ft.贰婶
-5sing.kugou.com/fc/14129518|默
-5sing.kugou.com/fc/14103258|Happiness 【Dear Sister 主题曲】
-5sing.kugou.com/fc/14075231|握住我的手 （with 老虎欧巴）
-5sing.kugou.com/fc/14063299|缘尽世间 （《魔天记》手游主题曲）
-5sing.kugou.com/fc/14054999|普通blues
-5sing.kugou.com/fc/13991488|オレンジ （四月是你的谎言ED2）
-5sing.kugou.com/fc/13978671|因为是你（Big OST）
-5sing.kugou.com/fc/13966736|理想之歌
-5sing.kugou.com/fc/13948818|君のすべてに （featuring 吾恩)
-5sing.kugou.com/fc/13865367|石楠小札（Acoustic Ver.）
-5sing.kugou.com/fc/13839453|Anything goes （feat.活捉）
-5sing.kugou.com/fc/13818954|Bang Bang  (ToMe girls ft. Loki) 
-5sing.kugou.com/fc/13710976|光るなら 【7th Chord】
-5sing.kugou.com/fc/13693554|灵犀相通
-5sing.kugou.com/fc/13605601|天问（曲：My immortal)
-5sing.kugou.com/fc/13587448|旅ダチノウタ ( 葫芦兄弟ver.）
-5sing.kugou.com/fc/13569042|Hero (with Loki)
-5sing.kugou.com/fc/13516120|Mirror  【魔劣ED2】
-5sing.kugou.com/fc/13492801|逐寸溃烂 （曲：邓丽欣 - 看透）
-5sing.kugou.com/fc/13482458|丹青客 （with 老虎欧巴）
-5sing.kugou.com/fc/13477920|崩壊世界の歌姫
-5sing.kugou.com/fc/13402242|aLIEz 【A/Z】
-5sing.kugou.com/fc/13398604|キミがいる【三黄云猕菠饼爽】
-5sing.kugou.com/fc/13384627|饮鸩之欢 （曲：空中恋人）
-5sing.kugou.com/fc/13382427|湖光水色调
-5sing.kugou.com/fc/13370826| 皂白（曲：摩登时代）
-5sing.kugou.com/fc/13347899|满月已霜
-5sing.kugou.com/fc/13302915|最长的电影
-5sing.kugou.com/fc/13297624|逆世成局
-5sing.kugou.com/fc/13284226|砂时计
-5sing.kugou.com/fc/13272744|The rose (with 小简)
-5sing.kugou.com/fc/13243385|传说 （with 迷人）
-5sing.kugou.com/fc/13191851|破晓以后  （龙之谷 破晓奇兵翻唱大赛）
-5sing.kugou.com/fc/13186156|琴深 （【忆语】华胥引之一世安三期ED）
-5sing.kugou.com/fc/13183818|Blessing【威JA黄露九摸喵饼月莲云齐括】
-5sing.kugou.com/fc/13171924|Euphoria
-5sing.kugou.com/fc/13144491|与爱的叙旧 with太子
-5sing.kugou.com/fc/13114786|刃中砂（和声版）
-5sing.kugou.com/fc/13062569|大千世界
-5sing.kugou.com/fc/12934223|荒谬说 (曲：活着)
-5sing.kugou.com/fc/12894373|Cut
-5sing.kugou.com/fc/12796513|Fragile
-5sing.kugou.com/fc/12698760|名もなき花のように
-5sing.kugou.com/fc/12616388|致幻（曲：树藤）
-5sing.kugou.com/fc/12592279|オトノナルホウヘ→ (葫芦兄弟ver.)
-5sing.kugou.com/fc/12573961|独人班 （曲：夜会）
-5sing.kugou.com/fc/12546853|忽如远行客 （曲：野孩子）
-5sing.kugou.com/fc/12531342|化身孤岛的鲸 （曲：我们都被忘了）
-5sing.kugou.com/fc/12462253|经过 ( with 人衣大人)
-5sing.kugou.com/fc/12425044|Goodbye (来自星星的你 OST)
-5sing.kugou.com/fc/16071052|命运与我 （怨气撞铃广播剧主题曲）
-5sing.kugou.com/fc/16020674|热血三国
-5sing.kugou.com/fc/15954325|天龙八部（with 大司乐坊）
-5sing.kugou.com/fc/15657253|【祈Inory/凑诗/云之泣/冥月】热爱至上
-5sing.kugou.com/fc/15633916|来日方长（with 萧忆情）
-5sing.kugou.com/fc/15616104|不该 （with Mario）
-5sing.kugou.com/fc/15294605|鸿崖之末 (曲：钟无艳）
-5sing.kugou.com/fc/15154574|【时之歌】夜昙
-5sing.kugou.com/fc/14975261|莉莉安
-5sing.kugou.com/fc/14921170|归一（with 慕寒 & 俺酱）
-5sing.kugou.com/fc/14828272|末日派热舞 （with 洛萱）
-5sing.kugou.com/fc/14805045|应抛旧姓名
-5sing.kugou.com/fc/14696179|红颜旧（剧情版）
-5sing.kugou.com/fc/14693108|红颜旧
-5sing.kugou.com/fc/14637445|好过纠缠 （小样版）
-5sing.kugou.com/fc/14587206|从前的我
-5sing.kugou.com/fc/14569757|呼吸 （with 老虎欧巴）
-5sing.kugou.com/fc/14550678|是不是他们来过 （混沌白书07闭眼鬼ED）
-5sing.kugou.com/fc/14538594|路过世界的旅行家
-5sing.kugou.com/fc/14530405|兔子先生
-5sing.kugou.com/fc/14504276|妻书
-5sing.kugou.com/fc/14490383|僕か?死のうと思ったのは 
-5sing.kugou.com/fc/14481756|【无心法师】最长的旅途
-5sing.kugou.com/fc/14387747|少年三国志
-5sing.kugou.com/fc/14287779|白忆之丘
-5sing.kugou.com/fc/14258773|十世镜
-5sing.kugou.com/fc/14244805|御守
-5sing.kugou.com/fc/14153157|I'm not the only one
-
+5SING 翻唱区 总计279
+5sing.kugou.com/fc/3650114.html|哈哈哈黑历史好哈皮！
+5sing.kugou.com/fc/3630218.html|Photographs feat. Domian
+5sing.kugou.com/fc/3606390.html|都什么时候了
+5sing.kugou.com/fc/3573511.html|独唱 (remix.)
+5sing.kugou.com/fc/3499544.html|[七人合唱]Mr.Music.[Kona/Code-V/飞雪/小云/小祈/乌拉/缘]
+5sing.kugou.com/fc/3494954.html|if you and me/ ??
+5sing.kugou.com/fc/3454301.html|To you... feat.小爱的妈
+5sing.kugou.com/fc/3428917.html|One Love feat. Nazky
+5sing.kugou.com/fc/3410029.html|逃避没有不好
+5sing.kugou.com/fc/3398430.html|Teenage Dream
+5sing.kugou.com/fc/3382788.html|【Live】Officially Missing You
+5sing.kugou.com/fc/3376777.html|月亮之上哈哈哈哈哈哈哈哈哈哈哈哈哈
+5sing.kugou.com/fc/3366646.html|一堆呆毛什么的
+5sing.kugou.com/fc/3316146.html|ただ一つの願いさえ feat. 齐栾
+5sing.kugou.com/fc/3282048.html|流星
+5sing.kugou.com/fc/3252753.html|back to december feat. britneylee
+5sing.kugou.com/fc/3234122.html|心动
+5sing.kugou.com/fc/3229593.html|原点 feat. 宝井厳
+5sing.kugou.com/fc/3143691.html|梦回醉暖 feat. 依穆炎
+5sing.kugou.com/fc/3135893.html|こんなに近くで （小洋人HBD）
+5sing.kugou.com/fc/3043168.html|Christmas Again
+5sing.kugou.com/fc/3016071.html|Just a game (试唱）
+5sing.kugou.com/fc/2935824.html|対象a  feat.vbless（灯灯HBD）
+5sing.kugou.com/fc/2932501.html|beautiful love
+5sing.kugou.com/fc/2893432.html|ふたつの唇 feat.洋介
+5sing.kugou.com/fc/2870096.html|Come back to me (凌妹子HBD）
+5sing.kugou.com/fc/2842892.html|Wait For You （Morris生日快乐）
+5sing.kugou.com/fc/2795659.html|逢いたくていま （大喵喵生日快乐）
+5sing.kugou.com/fc/2781633.html|If I were you (梳子生日快乐！）
+5sing.kugou.com/fc/2769924.html|Moon Crying
+5sing.kugou.com/fc/2764175.html|Magnet  feat .綾辻ゆき
+5sing.kugou.com/fc/2752101.html|A.I.N.Y
+5sing.kugou.com/fc/2749742.html|这么近那么远 （demo）
+5sing.kugou.com/fc/2728250.html|Hello,Again~昔からある場所~ (Ballad Ver.)
+5sing.kugou.com/fc/2651231.html|Once （睎睎HBD~）
+5sing.kugou.com/fc/2623254.html|你好吗 ft.凌妹子
+5sing.kugou.com/fc/2615265.html|いますぐに… (Acoustic Version) VVV生日快乐！！！！
+5sing.kugou.com/fc/2598193.html|热气球
+5sing.kugou.com/fc/2559563.html|Breathe  ft.britneylee
+5sing.kugou.com/fc/2524959.html|回家
+5sing.kugou.com/fc/2500305.html|Teardrops On My Guitar
+5sing.kugou.com/fc/2422101.html|jewelry day
+5sing.kugou.com/fc/2316729.html|八头肥鹅（battlefield）RJ HBD.
+5sing.kugou.com/fc/2261347.html|umbrella full. （小暖HBD）
+5sing.kugou.com/fc/2219162.html|Breathe
+5sing.kugou.com/fc/2219145.html|Crush
+5sing.kugou.com/fc/2180913.html|Gravity
+5sing.kugou.com/fc/2143470.html|we are the world-仙来25人合唱版~
+5sing.kugou.com/fc/2090246.html|temporary home
+5sing.kugou.com/fc/2085768.html|逢いたくていま (demo)
+5sing.kugou.com/fc/5630312.html|无赖
+5sing.kugou.com/fc/5602321.html|Skyscraper
+5sing.kugou.com/fc/5591476.html|屋顶 (feat.丹堂夏草)
+5sing.kugou.com/fc/5522492.html|[8人合唱]ゆめのかたち[飞雪/V/水曜日/大云/乌拉/小祈/叫兽/小恋]
+5sing.kugou.com/fc/5466799.html|He Ain t Wit Me Now (暖云樱杰拉版）
+5sing.kugou.com/fc/5455130.html|就算心痛 (feat.HITA)
+5sing.kugou.com/fc/5428800.html|Patron Tequila (暖云杰艾樱超 ver.)
+5sing.kugou.com/fc/5417380.html|Andromeda feat.美荆 (词：择荇)
+5sing.kugou.com/fc/5394330.html|Valentine
+5sing.kugou.com/fc/5342304.html|βιοζ-δ [罪恶王冠]
+5sing.kugou.com/fc/5260713.html|原谅
+5sing.kugou.com/fc/5160679.html|船(feat. 蜜蜜)
+5sing.kugou.com/fc/5146707.html|眉如远山 (feat. Aki阿杰)
+5sing.kugou.com/fc/5140727.html|爱因为在心中蜜蜜庆生版
+5sing.kugou.com/fc/5102722.html|我很忙
+5sing.kugou.com/fc/5053197.html|【乱唱】 Bad girl good girl
+5sing.kugou.com/fc/4993854.html|It s not Christmas without you
+5sing.kugou.com/fc/4974338.html|エウテルペ
+5sing.kugou.com/fc/4956964.html|Rhythm of love (feat. ST)
+5sing.kugou.com/fc/4945538.html|第三种爱情
+5sing.kugou.com/fc/4941546.html|Love Story (TV size.)「私が恋愛できない理由」
+5sing.kugou.com/fc/4826662.html|Keep Holding U Ver.2 (feat. HYH)
+5sing.kugou.com/fc/4821426.html|Keep Holding U (feat. HYH)
+5sing.kugou.com/fc/4750288.html|How to love (feat. 璐璐)
+5sing.kugou.com/fc/4666845.html|Crash and Burn
+5sing.kugou.com/fc/4630339.html|【LIVE】Amen
+5sing.kugou.com/fc/4578185.html|I feel pretty/unpretty (feat.britneylee)
+5sing.kugou.com/fc/4574790.html|那个女人(试唱) remix ver.
+5sing.kugou.com/fc/4563366.html|KAMEN (feat.HYH)
+5sing.kugou.com/fc/4500510.html|心拍数 (feat.宝井厳)
+5sing.kugou.com/fc/4473260.html|Poker Face (feat. Aki 阿杰)
+5sing.kugou.com/fc/4420432.html|超级玛丽  怎么唱情歌（demo)
+5sing.kugou.com/fc/4301162.html|キミに贈る歌 (feat. 凌)  TO V
+5sing.kugou.com/fc/4280084.html|Believe (feat.Rajor)
+5sing.kugou.com/fc/4259938.html|Calc. piano ver. (feat.V)
+5sing.kugou.com/fc/4174639.html|Girlfriend (feat.小爱的妈)
+5sing.kugou.com/fc/4113041.html|あなたがいる限り ~A WORLD TO BELIEVE IN~ (feat. Jalam)
+5sing.kugou.com/fc/4079774.html|Love Call （feat. 凌&侧）
+5sing.kugou.com/fc/4057314.html|爱情电影 feat.赫赫
+5sing.kugou.com/fc/3977553.html|逆生长小分队继续行动！
+5sing.kugou.com/fc/3974153.html|I Told You So (feat.手帕册)
+5sing.kugou.com/fc/3968254.html|Almost  Here (feat. chambek)
+5sing.kugou.com/fc/3952214.html|Broken Heart (feat. 眞亦軒)
+5sing.kugou.com/fc/3900369.html|又一堆呆毛
+5sing.kugou.com/fc/3866739.html|プレイス·オブ·ピリオド
+5sing.kugou.com/fc/3846381.html|Can t Get Enough (RJ生日快乐)
+5sing.kugou.com/fc/3771323.html|Can t Take My Eyes Off You ( to melodia)
+5sing.kugou.com/fc/3718763.html|S&M (feat. RJ) HBD to. 暖
+5sing.kugou.com/fc/3673813.html|Don t You Remember
+5sing.kugou.com/fc/3657510.html|自以为 feat.晞晞
+5sing.kugou.com/fc/8245831.html|圣诞夜
+5sing.kugou.com/fc/8141596.html|Special Love
+5sing.kugou.com/fc/8118694.html|【YY录】心在跳
+5sing.kugou.com/fc/8113125.html|【剑网叁】同归 (明教X纯阳)
+5sing.kugou.com/fc/8037595.html|Better Me
+5sing.kugou.com/fc/8001049.html|【完美时空-笑傲江湖】《执迷》
+5sing.kugou.com/fc/7974453.html|狂言绮语
+5sing.kugou.com/fc/7950783.html|美好的 (阿姐新婚快乐!)
+5sing.kugou.com/fc/7890207.html|Beautiful Surprise
+5sing.kugou.com/fc/7837681.html|理由 ft. 纯二二
+5sing.kugou.com/fc/7826531.html|殊途同归 （《甲方大佬，乙方流氓》第一期ED）
+5sing.kugou.com/fc/7399947.html|Hey Jude (feat.五只萝莉)
+5sing.kugou.com/fc/7251770.html|听了才知道！ft.檀檀&龟龟&阿长
+5sing.kugou.com/fc/7225658.html|挥不走的萤火
+5sing.kugou.com/fc/7207817.html|神居謡
+5sing.kugou.com/fc/7185368.html|Killa (feat.暖 RJ 樱桃 Loki)
+5sing.kugou.com/fc/7106625.html|Wide Awake  feat. Eugenia (Acoustic Guitar Ver.)
+5sing.kugou.com/fc/7017605.html|Lights (Piano Acoustic Ver.)
+5sing.kugou.com/fc/6952418.html|踮起脚尖爱
+5sing.kugou.com/fc/6908007.html|好不容易
+5sing.kugou.com/fc/6784353.html|The Garden of Everything (feat.诺维尔俊介)
+5sing.kugou.com/fc/6751238.html|一个人对话
+5sing.kugou.com/fc/6720880.html|爱你对谁说
+5sing.kugou.com/fc/6713654.html|Hello ft. 大残
+5sing.kugou.com/fc/6675045.html|最爱的人伤我最深 (feat.赫赫)
+5sing.kugou.com/fc/6646492.html|因为爱情(feat.duoduo)
+5sing.kugou.com/fc/6591840.html|Spell
+5sing.kugou.com/fc/6521572.html|Stickwitu (feat. 暖暖& 樱桃)
+5sing.kugou.com/fc/6493313.html|玫瑰堡垒
+5sing.kugou.com/fc/6481908.html|一心不乱 (ft. 飞雪 & 水水)
+5sing.kugou.com/fc/6416054.html|One In A million
+5sing.kugou.com/fc/6357491.html|桜音 (feat.小爱的妈)
+5sing.kugou.com/fc/6326041.html|缓缓棋归 (feat. HITA)
+5sing.kugou.com/fc/6317672.html|时光倒流 (拥抱太阳的月亮OST)
+5sing.kugou.com/fc/6254281.html|让梦冬眠 (feat. Eric.周)
+5sing.kugou.com/fc/6239078.html|Neglected (feat. TC)
+5sing.kugou.com/fc/6190678.html|一个人想你
+5sing.kugou.com/fc/6170690.html|Boyfriend
+5sing.kugou.com/fc/6135629.html|我的歌声里
+5sing.kugou.com/fc/6126909.html|社戏
+5sing.kugou.com/fc/6016382.html|想自由
+5sing.kugou.com/fc/6003558.html|少年 (feat.神之小饼)
+5sing.kugou.com/fc/5976392.html|刹那芳华曲
+5sing.kugou.com/fc/5963892.html|to the beginning Feat.KonaYu & 音lysion
+5sing.kugou.com/fc/5949189.html|樱园梦
+5sing.kugou.com/fc/5901176.html|Two As One (feat.HYH)
+5sing.kugou.com/fc/5850625.html|永遠はただの一秒から (feat.V)
+5sing.kugou.com/fc/5814588.html|Grenade (Acoustic Ver.)
+5sing.kugou.com/fc/5754381.html|最后一眼(feat.赖仔)
+5sing.kugou.com/fc/5665202.html|Love Days~ It‘s You 【柏晓2012动画新番 <不可能恋爱?> ED】
+5sing.kugou.com/fc/12234058.html|梦 （原曲：蜃楼）
+5sing.kugou.com/fc/12197169.html|Let it go
+5sing.kugou.com/fc/12103598.html|好友记 （曲：再见二丁目）
+5sing.kugou.com/fc/12076116.html|777～We can sing a song!～ (葫芦兄弟ver.)
+5sing.kugou.com/fc/11903538.html|诛仙·十年
+5sing.kugou.com/fc/11823530.html|好好说再见 (ft. 伏羲)
+5sing.kugou.com/fc/11732440.html|【AAA】恋音と雨空 ver.云匀五嘟露MO三
+5sing.kugou.com/fc/11657015.html|舞夜序歌
+5sing.kugou.com/fc/11625767.html|画壁 （弦乐版） 后期：蓦然
+5sing.kugou.com/fc/11553464.html|你听这一首情歌 （曲：ここにしか咲かない花）
+5sing.kugou.com/fc/11424357.html|我与自己唱相守
+5sing.kugou.com/fc/11380243.html|爱殇
+5sing.kugou.com/fc/11343726.html|陶然四季
+5sing.kugou.com/fc/11315560.html|十年 （曲：年度之歌）
+5sing.kugou.com/fc/11293863.html|陪衬 （曲：搜神记）
+5sing.kugou.com/fc/11282612.html|风起来的时光
+5sing.kugou.com/fc/11236660.html|Teardrop
+5sing.kugou.com/fc/11150338.html|夜的绮语
+5sing.kugou.com/fc/10819085.html|夜梦 （曲：邓丽欣 黑白照）
+5sing.kugou.com/fc/10670404.html|『以画为歌』皋之鯉
+5sing.kugou.com/fc/10614974.html|晚风 (with 吾恩)
+5sing.kugou.com/fc/10589867.html|蛍 (组组HBD)
+5sing.kugou.com/fc/10525130.html|Gefühle (with ABkamp & KAKA）
+5sing.kugou.com/fc/10520201.html|红豆 （眉如黛作品 古耽玄幻广播剧《伏诛》插曲）
+5sing.kugou.com/fc/10512662.html|からくりピエロ piano ver.
+5sing.kugou.com/fc/10506799.html|暮光 (原曲：手嶌葵- 旅人)
+5sing.kugou.com/fc/10432460.html|当时（with 不才）
+5sing.kugou.com/fc/10380241.html|High Rise City
+5sing.kugou.com/fc/10170559.html|贪欢 (with HITA )
+5sing.kugou.com/fc/10152877.html|Let it out （TV size）
+5sing.kugou.com/fc/10128692.html|Love is not perfect  (with 橙翼)
+5sing.kugou.com/fc/10103193.html|好きだから。
+5sing.kugou.com/fc/9995486.html|风萤月
+5sing.kugou.com/fc/9944397.html|Suit & Tie ( Acoustic Guitar Ver.) with 暖暖
+5sing.kugou.com/fc/9939491.html|[12人合唱] シンガソン - れるりり
+5sing.kugou.com/fc/9875789.html|那些年 钢琴版
+5sing.kugou.com/fc/9840782.html|那些年 (feat.暖) acappella ver. HBD  Eugenia
+5sing.kugou.com/fc/9762829.html|When I was Your Man (HBD to 暖暖)
+5sing.kugou.com/fc/9743649.html|Wings (with 暖 樱 RJ）HBD loki
+5sing.kugou.com/fc/9721440.html|时间煮雨
+5sing.kugou.com/fc/9660994.html|朝花只拾一半  HBD to 小武
+5sing.kugou.com/fc/9610377.html|哑 ( 原曲：致青春）
+5sing.kugou.com/fc/9559491.html|都给本大爷跪下！
+5sing.kugou.com/fc/9559371.html|长坂调
+5sing.kugou.com/fc/9110453.html|刃中砂
+5sing.kugou.com/fc/8647000.html|妹子们快嫁窝！
+5sing.kugou.com/fc/8639749.html|Paparazzi (feat. 凑诗 wis light)
+5sing.kugou.com/fc/8369710.html|萌芽的爱恋
+5sing.kugou.com/fc/8307399.html|【古剑】 多情只有春庭月
+5sing.kugou.com/fc/8293353.html|圣诞结 Lonely Christmas ft.贰婶
+5sing.kugou.com/fc/14129518.html|默
+5sing.kugou.com/fc/14103258.html|Happiness 【Dear Sister 主题曲】
+5sing.kugou.com/fc/14075231.html|握住我的手 （with 老虎欧巴）
+5sing.kugou.com/fc/14063299.html|缘尽世间 （《魔天记》手游主题曲）
+5sing.kugou.com/fc/14054999.html|普通blues
+5sing.kugou.com/fc/13991488.html|オレンジ （四月是你的谎言ED2）
+5sing.kugou.com/fc/13978671.html|因为是你（Big OST）
+5sing.kugou.com/fc/13966736.html|理想之歌
+5sing.kugou.com/fc/13948818.html|君のすべてに （featuring 吾恩)
+5sing.kugou.com/fc/13865367.html|石楠小札（Acoustic Ver.）
+5sing.kugou.com/fc/13839453.html|Anything goes （feat.活捉）
+5sing.kugou.com/fc/13818954.html|Bang Bang  (ToMe girls ft. Loki) 
+5sing.kugou.com/fc/13710976.html|光るなら 【7th Chord】
+5sing.kugou.com/fc/13693554.html|灵犀相通
+5sing.kugou.com/fc/13605601.html|天问（曲：My immortal)
+5sing.kugou.com/fc/13587448.html|旅ダチノウタ ( 葫芦兄弟ver.）
+5sing.kugou.com/fc/13569042.html|Hero (with Loki)
+5sing.kugou.com/fc/13516120.html|Mirror  【魔劣ED2】
+5sing.kugou.com/fc/13492801.html|逐寸溃烂 （曲：邓丽欣 - 看透）
+5sing.kugou.com/fc/13482458.html|丹青客 （with 老虎欧巴）
+5sing.kugou.com/fc/13477920.html|崩壊世界の歌姫
+5sing.kugou.com/fc/13402242.html|aLIEz 【A/Z】
+5sing.kugou.com/fc/13398604.html|キミがいる【三黄云猕菠饼爽】
+5sing.kugou.com/fc/13384627.html|饮鸩之欢 （曲：空中恋人）
+5sing.kugou.com/fc/13382427.html|湖光水色调
+5sing.kugou.com/fc/13370826.html| 皂白（曲：摩登时代）
+5sing.kugou.com/fc/13347899.html|满月已霜
+5sing.kugou.com/fc/13302915.html|最长的电影
+5sing.kugou.com/fc/13297624.html|逆世成局
+5sing.kugou.com/fc/13284226.html|砂时计
+5sing.kugou.com/fc/13272744.html|The rose (with 小简)
+5sing.kugou.com/fc/13243385.html|传说 （with 迷人）
+5sing.kugou.com/fc/13191851.html|破晓以后  （龙之谷 破晓奇兵翻唱大赛）
+5sing.kugou.com/fc/13186156.html|琴深 （【忆语】华胥引之一世安三期ED）
+5sing.kugou.com/fc/13183818.html|Blessing【威JA黄露九摸喵饼月莲云齐括】
+5sing.kugou.com/fc/13171924.html|Euphoria
+5sing.kugou.com/fc/13144491.html|与爱的叙旧 with太子
+5sing.kugou.com/fc/13114786.html|刃中砂（和声版）
+5sing.kugou.com/fc/13062569.html|大千世界
+5sing.kugou.com/fc/12934223.html|荒谬说 (曲：活着)
+5sing.kugou.com/fc/12894373.html|Cut
+5sing.kugou.com/fc/12796513.html|Fragile
+5sing.kugou.com/fc/12698760.html|名もなき花のように
+5sing.kugou.com/fc/12616388.html|致幻（曲：树藤）
+5sing.kugou.com/fc/12592279.html|オトノナルホウヘ→ (葫芦兄弟ver.)
+5sing.kugou.com/fc/12573961.html|独人班 （曲：夜会）
+5sing.kugou.com/fc/12546853.html|忽如远行客 （曲：野孩子）
+5sing.kugou.com/fc/12531342.html|化身孤岛的鲸 （曲：我们都被忘了）
+5sing.kugou.com/fc/12462253.html|经过 ( with 人衣大人)
+5sing.kugou.com/fc/12425044.html|Goodbye (来自星星的你 OST)
+5sing.kugou.com/fc/16071052.html|命运与我 （怨气撞铃广播剧主题曲）
+5sing.kugou.com/fc/16020674.html|热血三国
+5sing.kugou.com/fc/15954325.html|天龙八部（with 大司乐坊）
+5sing.kugou.com/fc/15657253.html|【祈Inory/凑诗/云之泣/冥月】热爱至上
+5sing.kugou.com/fc/15633916.html|来日方长（with 萧忆情）
+5sing.kugou.com/fc/15616104.html|不该 （with Mario）
+5sing.kugou.com/fc/15294605.html|鸿崖之末 (曲：钟无艳）
+5sing.kugou.com/fc/15154574.html|【时之歌】夜昙
+5sing.kugou.com/fc/14975261.html|莉莉安
+5sing.kugou.com/fc/14921170.html|归一（with 慕寒 & 俺酱）
+5sing.kugou.com/fc/14828272.html|末日派热舞 （with 洛萱）
+5sing.kugou.com/fc/14805045.html|应抛旧姓名
+5sing.kugou.com/fc/14696179.html|红颜旧（剧情版）
+5sing.kugou.com/fc/14693108.html|红颜旧
+5sing.kugou.com/fc/14637445.html|好过纠缠 （小样版）
+5sing.kugou.com/fc/14587206.html|从前的我
+5sing.kugou.com/fc/14569757.html|呼吸 （with 老虎欧巴）
+5sing.kugou.com/fc/14550678.html|是不是他们来过 （混沌白书07闭眼鬼ED）
+5sing.kugou.com/fc/14538594.html|路过世界的旅行家
+5sing.kugou.com/fc/14530405.html|兔子先生
+5sing.kugou.com/fc/14504276.html|妻书
+5sing.kugou.com/fc/14490383.html|僕か?死のうと思ったのは 
+5sing.kugou.com/fc/14481756.html|【无心法师】最长的旅途
+5sing.kugou.com/fc/14387747.html|少年三国志
+5sing.kugou.com/fc/14287779.html|白忆之丘
+5sing.kugou.com/fc/14258773.html|十世镜
+5sing.kugou.com/fc/14244805.html|御守
+5sing.kugou.com/fc/14153157.html|I'm not the only one
+5sing.kugou.com/fc/16207481.html.html|孤独星球
 
 5SING 原唱区 总计53
-5sing.kugou.com/yc/3185431|秋风知月明（天涯明月刀OL）
-5sing.kugou.com/yc/3138411|徒然歌 《寂寞空庭春欲晚》ED-【荔枝自制广播剧】
-5sing.kugou.com/yc/3134721|无限莫比乌斯——少女咖啡枪主题曲短版
-5sing.kugou.com/yc/3124458|生（洛天依原创 人声本家）
-5sing.kugou.com/yc/3013669|红梅白雪知
-5sing.kugou.com/yc/3005812|清风曲 【羽白 第一期ED】
-5sing.kugou.com/yc/2959836|凤魅江山 (纯歌版）
-5sing.kugou.com/yc/2958679|画地为牢 【专辑问心收录曲】
-5sing.kugou.com/yc/2958677|凤魅江山（剧情版）
-5sing.kugou.com/yc/2958672|锦年入梦【千里丹心万里路】 with 人衣大人
-5sing.kugou.com/yc/2929598|Barcarolle for Strayers 歧路船歌
-5sing.kugou.com/yc/2856976|爱
-5sing.kugou.com/yc/2822507|大漠月影+月儿谣
-5sing.kugou.com/yc/2738884|寐行记
-5sing.kugou.com/yc/2714841|我住长江头
-5sing.kugou.com/yc/2673514|边界 （demo）
-5sing.kugou.com/yc/2588968|爱神兵团
-5sing.kugou.com/yc/2551096|Which heaven is mine
-5sing.kugou.com/yc/2531946|心中的城堡
-5sing.kugou.com/yc/2462357|华胥调
-5sing.kugou.com/yc/2428463|梦中的芳华
-5sing.kugou.com/yc/2333343|万般徒说
-5sing.kugou.com/yc/2295339|天敌 (with 叶里）
-5sing.kugou.com/yc/2259850|庭树
-5sing.kugou.com/yc/2227187|留余庆 （古词新曲  红楼梦世界）
-5sing.kugou.com/yc/2208777|Farewell
-5sing.kugou.com/yc/2205288|告白
-5sing.kugou.com/yc/2200762|专属情歌
-5sing.kugou.com/yc/2132749|穗岁情长
-5sing.kugou.com/yc/2118575|一苇以航
-5sing.kugou.com/yc/2114431|楚门 （with 林碧落）
-5sing.kugou.com/yc/2054789|月
-5sing.kugou.com/yc/2052835|画堂春（女版）
-5sing.kugou.com/yc/1993510|明军-之神机营
-5sing.kugou.com/yc/1985253|明军-之三千营
-5sing.kugou.com/yc/1979760|明军-之五军营
-5sing.kugou.com/yc/1957967|起源-神幻之歌
-5sing.kugou.com/yc/1872706|【水韵弦音】春末 (with.莫辣)
-5sing.kugou.com/yc/1790705|Guilty
-5sing.kugou.com/yc/1732595|锦鲤抄 (feat. 银临)
-5sing.kugou.com/yc/1731009|Mercury 水星
-5sing.kugou.com/yc/1691172|书情 (feat. 木槿白)
-5sing.kugou.com/yc/1689068|你好吗
-5sing.kugou.com/yc/1561609|青玉案
-5sing.kugou.com/yc/1535423|墨泪
-5sing.kugou.com/yc/1418723|夏日里的歌
-5sing.kugou.com/yc/1345220|League of Legends
-5sing.kugou.com/yc/1332335|You Are My Hero (feat. Aki阿杰)
-5sing.kugou.com/yc/1328474|海沫
-5sing.kugou.com/yc/864543|Amethyst Abyss
-5sing.kugou.com/yc/3285624|夜游园 With. Aki阿杰
-5sing.kugou.com/yc/3247797|引力波 （言和原创 人声本家）
-5sing.kugou.com/yc/3244552|叶格尔的情诗 (with 人衣大人)
+5sing.kugou.com/yc/3185431.html|秋风知月明（天涯明月刀OL）
+5sing.kugou.com/yc/3138411.html|徒然歌 《寂寞空庭春欲晚》ED-【荔枝自制广播剧】
+5sing.kugou.com/yc/3134721.html|无限莫比乌斯——少女咖啡枪主题曲短版
+5sing.kugou.com/yc/3124458.html|生（洛天依原创 人声本家）
+5sing.kugou.com/yc/3013669.html|红梅白雪知
+5sing.kugou.com/yc/3005812.html|清风曲 【羽白 第一期ED】
+5sing.kugou.com/yc/2959836.html|凤魅江山 (纯歌版）
+5sing.kugou.com/yc/2958679.html|画地为牢 【专辑问心收录曲】
+5sing.kugou.com/yc/2958677.html|凤魅江山（剧情版）
+5sing.kugou.com/yc/2958672.html|锦年入梦【千里丹心万里路】 with 人衣大人
+5sing.kugou.com/yc/2929598.html|Barcarolle for Strayers 歧路船歌
+5sing.kugou.com/yc/2856976.html|爱
+5sing.kugou.com/yc/2822507.html|大漠月影+月儿谣
+5sing.kugou.com/yc/2738884.html|寐行记
+5sing.kugou.com/yc/2714841.html|我住长江头
+5sing.kugou.com/yc/2673514.html|边界 （demo）
+5sing.kugou.com/yc/2588968.html|爱神兵团
+5sing.kugou.com/yc/2551096.html|Which heaven is mine
+5sing.kugou.com/yc/2531946.html|心中的城堡
+5sing.kugou.com/yc/2462357.html|华胥调
+5sing.kugou.com/yc/2428463.html|梦中的芳华
+5sing.kugou.com/yc/2333343.html|万般徒说
+5sing.kugou.com/yc/2295339.html|天敌 (with 叶里）
+5sing.kugou.com/yc/2259850.html|庭树
+5sing.kugou.com/yc/2227187.html|留余庆 （古词新曲  红楼梦世界）
+5sing.kugou.com/yc/2208777.html|Farewell
+5sing.kugou.com/yc/2205288.html|告白
+5sing.kugou.com/yc/2200762.html|专属情歌
+5sing.kugou.com/yc/2132749.html|穗岁情长
+5sing.kugou.com/yc/2118575.html|一苇以航
+5sing.kugou.com/yc/2114431.html|楚门 （with 林碧落）
+5sing.kugou.com/yc/2054789.html|月
+5sing.kugou.com/yc/2052835.html|画堂春（女版）
+5sing.kugou.com/yc/1993510.html|明军-之神机营
+5sing.kugou.com/yc/1985253.html|明军-之三千营
+5sing.kugou.com/yc/1979760.html|明军-之五军营
+5sing.kugou.com/yc/1957967.html|起源-神幻之歌
+5sing.kugou.com/yc/1872706.html|【水韵弦音】春末 (with.莫辣)
+5sing.kugou.com/yc/1790705.html|Guilty
+5sing.kugou.com/yc/1732595.html|锦鲤抄 (feat. 银临)
+5sing.kugou.com/yc/1731009.html|Mercury 水星
+5sing.kugou.com/yc/1691172.html|书情 (feat. 木槿白)
+5sing.kugou.com/yc/1689068.html|你好吗
+5sing.kugou.com/yc/1561609.html|青玉案
+5sing.kugou.com/yc/1535423.html|墨泪
+5sing.kugou.com/yc/1418723.html|夏日里的歌
+5sing.kugou.com/yc/1345220.html|League of Legends
+5sing.kugou.com/yc/1332335.html|You Are My Hero (feat. Aki阿杰)
+5sing.kugou.com/yc/1328474.html|海沫
+5sing.kugou.com/yc/864543.html|Amethyst Abyss
+5sing.kugou.com/yc/3285624.html|夜游园 With. Aki阿杰
+5sing.kugou.com/yc/3247797.html|引力波 （言和原创 人声本家）
+5sing.kugou.com/yc/3244552.html|叶格尔的情诗 (with 人衣大人)
 
 
 5SING 伴奏区 总计13
-5sing.kugou.com/bz/2406131|万般徒说伴奏
-5sing.kugou.com/bz/2269426|陶然四季 （女版带和声伴奏）
-5sing.kugou.com/bz/2266030|是我在做多情种 （我与自己唱相守）
-5sing.kugou.com/bz/1950134|Guilty (男版伴奏）
-5sing.kugou.com/bz/1950132|Guilty （女版伴奏)
-5sing.kugou.com/bz/1860939|同归 无和声伴奏
-5sing.kugou.com/bz/1860934|海沫 带和声伴奏
-5sing.kugou.com/bz/1860926|你好吗（伴奏）
-5sing.kugou.com/bz/1792420|青玉案 带和声
-5sing.kugou.com/bz/1414241|爱你对谁说(女版带和声伴奏)
-5sing.kugou.com/bz/1244769|Grenade (Acoustic Instrumental)
-5sing.kugou.com/bz/1176994|Valentine （instrumental）
-5sing.kugou.com/bz/1021158|Crystal Kay feat. BOA - Girlfriend (instrumental)
+5sing.kugou.com/bz/2406131.html|万般徒说伴奏
+5sing.kugou.com/bz/2269426.html|陶然四季 （女版带和声伴奏）
+5sing.kugou.com/bz/2266030.html|是我在做多情种 （我与自己唱相守）
+5sing.kugou.com/bz/1950134.html|Guilty (男版伴奏）
+5sing.kugou.com/bz/1950132.html|Guilty （女版伴奏)
+5sing.kugou.com/bz/1860939.html|同归 无和声伴奏
+5sing.kugou.com/bz/1860934.html|海沫 带和声伴奏
+5sing.kugou.com/bz/1860926.html|你好吗（伴奏）
+5sing.kugou.com/bz/1792420.html|青玉案 带和声
+5sing.kugou.com/bz/1414241.html|爱你对谁说(女版带和声伴奏)
+5sing.kugou.com/bz/1244769.html|Grenade (Acoustic Instrumental)
+5sing.kugou.com/bz/1176994.html|Valentine （instrumental）
+5sing.kugou.com/bz/1021158.html|Crystal Kay feat. BOA - Girlfriend (instrumental)
 
 
-全民 总计119
+全民 总计122
 http://node.kg.qq.com/play?s=73dmib7ZmLTOW7o-|消愁(Live)
 http://node.kg.qq.com/play?s=gK-qcngVqrTMCgKC|Attention
 http://node.kg.qq.com/play?s=gK-qcngVqOncwgK_|暧昧
@@ -473,6 +473,9 @@ http://node.kg.qq.com/play?s=m2S7JamA744B2m19|那些你很冒险的梦
 http://node.kg.qq.com/play?s=V_It4NVgtiDACV-W|那又如何
 http://node.kg.qq.com/play?s=V_It4NVgtis8OV9x|日落大道(Live)
 http://node.kg.qq.com/play?s=V_It4NVgtPQvYV_D|寂寞拥挤
+http://node.kg.qq.com/play?s=3752Wy3T24H_T3dx|紫(Live)
+http://node.kg.qq.com/play?s=3752Wy3T2NCay3oF|到不了(Live)
+http://node.kg.qq.com/play?s=3752Wy3T2fXfG37-|回到过去(Live)
 
 唱吧 总计31
 changba.com/s/afLrTHW44TjR9I3zc2bs3w|夕山谣【完整原版】
@@ -508,7 +511,7 @@ changba.com/s/8zFgfl7AxPUm5fFBZF7TLQ|停格
 changba.com/s/_p5nXHeKg16SVJeQtjkJKg|浪费
 
 
-网易云音乐 音乐区 总计162
+网易云音乐 音乐区 总计163
 music.163.com/song?id=33337077|夜空中最亮的星
 music.163.com/song?id=423704004|暮光
 music.163.com/song?id=33337201|你不知道的事
@@ -671,7 +674,7 @@ music.163.com/song?id=471850483|【予词一曲】龙之战歌
 music.163.com/song?id=33327055|告白
 music.163.com/song?id=457986794|来日方长 （Cover 黄龄 / 薛之谦）
 music.163.com/song?id=457987840|不该 （Cover 张惠妹 / 周杰伦）
-
+music.163.com/song?id=511826409|孤独星球
 
 网易云音乐 电台区 总计274
 music.163.com/program?id=793799647|无限莫比乌斯——少女咖啡枪主题曲短版
