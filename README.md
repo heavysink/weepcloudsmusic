@@ -1,6 +1,6 @@
 # weepcloudsmusic
 云呆呆歌曲全集
-5SING 翻唱区 总计279
+5SING 翻唱区 总计281
 5sing.kugou.com/fc/3650114.html|哈哈哈黑历史好哈皮！
 5sing.kugou.com/fc/3630218.html|Photographs feat. Domian
 5sing.kugou.com/fc/3606390.html|都什么时候了
@@ -280,8 +280,10 @@
 5sing.kugou.com/fc/14244805.html|御守
 5sing.kugou.com/fc/14153157.html|I'm not the only one
 5sing.kugou.com/fc/16207481.html.html|孤独星球
+5sing.kugou.com/fc/16301315.html|人人都爱郭路生 （原曲：不难）
+5sing.kugou.com/fc/16389391.html|《不朽凡人》手游同人曲《无忌》
 
-5SING 原唱区 总计53
+5SING 原唱区 总计54
 5sing.kugou.com/yc/3185431.html|秋风知月明（天涯明月刀OL）
 5sing.kugou.com/yc/3138411.html|徒然歌 《寂寞空庭春欲晚》ED-【荔枝自制广播剧】
 5sing.kugou.com/yc/3134721.html|无限莫比乌斯——少女咖啡枪主题曲短版
@@ -335,6 +337,7 @@
 5sing.kugou.com/yc/3285624.html|夜游园 With. Aki阿杰
 5sing.kugou.com/yc/3247797.html|引力波 （言和原创 人声本家）
 5sing.kugou.com/yc/3244552.html|叶格尔的情诗 (with 人衣大人)
+5sing.kugou.com/yc/3562823.html|九州撩汉歌
 
 
 5SING 伴奏区 总计13
@@ -353,7 +356,7 @@
 5sing.kugou.com/bz/1021158.html|Crystal Kay feat. BOA - Girlfriend (instrumental)
 
 
-全民 总计122
+全民 总计140
 http://node.kg.qq.com/play?s=73dmib7ZmLTOW7o-|消愁(Live)
 http://node.kg.qq.com/play?s=gK-qcngVqrTMCgKC|Attention
 http://node.kg.qq.com/play?s=gK-qcngVqOncwgK_|暧昧
@@ -476,6 +479,25 @@ http://node.kg.qq.com/play?s=V_It4NVgtPQvYV_D|寂寞拥挤
 http://node.kg.qq.com/play?s=3752Wy3T24H_T3dx|紫(Live)
 http://node.kg.qq.com/play?s=3752Wy3T2NCay3oF|到不了(Live)
 http://node.kg.qq.com/play?s=3752Wy3T2fXfG37-|回到过去(Live)
+http://node.kg.qq.com/play?s=V_It4NVgS_LA_V5k|第三人称(Live)
+http://node.kg.qq.com/play?s=kcYlKokwpYSKJkwJ|像我这样的人(Live)
+http://node.kg.qq.com/play?s=XCWU5TXyref2YXwI|Remember Me (Reunion)
+http://node.kg.qq.com/play?s=oI_ufkox2t6pho5q|红昭愿
+http://node.kg.qq.com/play?s=_VoOwY_KGh8lB_I7|体面
+http://node.kg.qq.com/play?s=ckNDgIc4a8Wmkcyr|等你下课(with 杨瑞代)
+http://node.kg.qq.com/play?s=jPy0T5jWL99CIjN0|连名带姓
+http://node.kg.qq.com/play?s=1qRKl91OHdmvZ1qb|离人
+http://node.kg.qq.com/play?s=WiXB3HWj9Jn5DWfB|阿刁(Live)
+http://node.kg.qq.com/play?s=1qRKl91OHg0Bt1cV|Havana
+http://node.kg.qq.com/play?s=U8BXGQUpw_WHhUeK|起风了
+http://node.kg.qq.com/play?s=zEQHpBzGKwG4qz1z|空空如也
+http://node.kg.qq.com/play?s=SGmd86SEVi3ZBShJ|Never Enough
+http://node.kg.qq.com/play?s=w4fr_xwkU373Bwj1|电梯
+http://node.kg.qq.com/play?s=2mG3Bp2QoUz_l2qr|手纸 ～拝启 十五の君へ～
+http://node.kg.qq.com/play?s=1qRKl91OH6gPP1Oq|慢慢喜欢你
+http://node.kg.qq.com/play?s=V_It4NVgSkERjVIy|戒烟
+http://node.kg.qq.com/play?s=m2S7JamA-u5TimSL|Let Me Love You(Live)
+
 
 唱吧 总计31
 changba.com/s/afLrTHW44TjR9I3zc2bs3w|夕山谣【完整原版】
